@@ -36,7 +36,9 @@ This approach provides a **relatively simple way to incorporate material strengt
 
 ## 🚀 Future Work
 
-- Extend this formulation to a **3D numerical model** for more realistic simulations.  
+- Implement more phase field fracture formulation in MOOSE framework.
+- Ensure the simulation stability and convergence.
+- Extend this formulation to a **3D numerical model** for more realistic simulations.
 
 ---
 
